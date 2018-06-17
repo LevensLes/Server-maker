@@ -1,0 +1,12 @@
+C:\Users\LevensLes\source\repos\Server Creator\Server Creator\obj\Debug\Server Creator.vbprojAssemblyReference.cache
+C:\Users\LevensLes\source\repos\Server Creator\Server Creator\obj\Debug\Server_Creator.Resources.resources
+C:\Users\LevensLes\source\repos\Server Creator\Server Creator\obj\Debug\Server Creator.vbproj.GenerateResource.cache
+C:\Users\LevensLes\source\repos\Server Creator\Server Creator\obj\Debug\Server Creator.vbproj.CoreCompileInputs.cache
+C:\Users\LevensLes\source\repos\Server Creator\Server Creator\bin\Debug\Server Creator.exe.config
+C:\Users\LevensLes\source\repos\Server Creator\Server Creator\bin\Debug\Server Creator.exe
+C:\Users\LevensLes\source\repos\Server Creator\Server Creator\bin\Debug\Server Creator.pdb
+C:\Users\LevensLes\source\repos\Server Creator\Server Creator\bin\Debug\Server Creator.xml
+C:\Users\LevensLes\source\repos\Server Creator\Server Creator\obj\Debug\Server Creator.exe
+C:\Users\LevensLes\source\repos\Server Creator\Server Creator\obj\Debug\Server Creator.xml
+C:\Users\LevensLes\source\repos\Server Creator\Server Creator\obj\Debug\Server Creator.pdb
+C:\Users\LevensLes\source\repos\Server Creator\Server Creator\obj\Debug\Server_Creator.Form1.resources
