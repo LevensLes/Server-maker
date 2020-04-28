@@ -108,8 +108,8 @@ pause")
         If FlatCheckBox2.Checked = True Then
 
 
-            Dim nigger As String = ("C:\Users\" & UserAccName & "\desktop\Server\eula.txt")
-            System.IO.File.Create(nigger).Dispose()
+                            Dim eulaFile As String = ("C:\Users\" & UserAccName & "\desktop\Server\eula.txt")
+            System.IO.File.Create(eulaFile).Dispose()
 
             file = My.Computer.FileSystem.OpenTextFileWriter("C:\Users\" & UserAccName & "\desktop\Server\eula.txt", True)
             file.WriteLine("#By changing the setting below to TRUE you are indicating your agreement to our EULA (https://account.mojang.com/documents/minecraft_eula).
